@@ -1069,7 +1069,7 @@ select {
   text-overflow: ellipsis; }
   select option {
     color: #3d4449;
-    background: #ffffff; }
+    background: #3b2c2b; }
   select:focus::-ms-value {
     background-color: transparent; }
   select::-ms-expand {
