@@ -3,8 +3,8 @@ permalink: /markdown/
 title: "Markdown"
 author_profile: true
 redirect_from: 
-  - /nmp/
-  - /nmp.html
+  - /md/
+  - /markdown.html
 ---
 
 {% include toc %}
