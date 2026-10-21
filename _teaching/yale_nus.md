@@ -14,7 +14,7 @@ Physical Chemistry
 -
 Duration: Semester 2 in Year 4. 
 
-Quantitative reasoning (YSC3262) was a common curriculum course taken by all newly matriculated students in the first semester. The two most important things students learned in this course was how to use the R programming language to do exploratory data analysis and how to do basic statistics and interpret hypotheses in a quantitative manner. The course title and module code changed in my final year (as the school transitioned to NUS College), but the overarching learning goals in the module were similar.
+Physical Chemistry (YSC3262) was an advanced undergraduate course taken by mainly physical sciences students with a focus in Chemistry. Although I hadn't personally taken the course myself, most of the concepts taught in it was based on the principles of Quantum Mechanics. I helped answer questions mostly about the mathematics of Quantum Mechanics. 
 
 Introduction to Black Holes
 -
