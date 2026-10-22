@@ -41,7 +41,7 @@ The epoch of z ~ 2 is called cosmic noon, which coincides with the highest obser
 
 #### Searching for infrared-faint high-z Radio Luminous AGN in *Euclid* Deep Field South
 ##### Supervised by: Nick Seymour, ICRAR Curtin
-##### Deliverables: Proposals to ATCA (PI; scheduled in December 2026), LBA (Co-I; not scheduled yet but placement in the 2nd quartile), *JWST* (Co-I; just submitted)
+##### Deliverables: Proposals to ATCA (PI; Observation scheduled in December 2026), LBA (Co-I; not scheduled yet but placement in the 2nd quartile), *JWST* (Co-I; just submitted)
 
 High redshift radio galaxies 
 
