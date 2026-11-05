@@ -1,36 +1,35 @@
 ---
-title: "Teaching Assistant"
+title: "Full-time Teaching Assistant"
 collection: teaching
-type: "Peer Tutoring"
-permalink: /teaching/yale_nus
-venue: "Yale-NUS College"
-date: 2023-1-1
+type: "Teaching Assistant"
+permalink: /teaching/nus
+venue: "National University of Singapore"
+date: 2025-1-1
 location: "Singapore, Singapore"
 ---
 
-You'll find a brief synopsis of my peer tutoring experiences when I was an undergraduate. At Yale-NUS College, peer tutoring was the term to refer to outside classroom one-to-one or one-to-many instruction tutoring where the tutor is hired on the recommendation of the faculty member teaching a particular course. This was a part time position during the semester alongside my regular classes. Students could send me an email to book time with me; depending on the course workload/difficulty, my tutoring commitment for each module would vary between 10 - 15 hours per course per semester. Unlike TA arrangements in a lot of universities, I would **not be involved in grading work**. 
+During my time as a Teaching Assistant at NUS, I was working for the Special Programme for Science (SPS), which is an interdisciplinary science curriculum designed to fast-track students into scientific research experience earlier than is typical. My duties mainly pertained to leading tutorials, marking assignments and holding consultations with students as and when they needed them, or on pre-determined times (especially when major assignments were due). Since there was a strong emphasis on project-based and group work, often times I would also have to mentor groups. You can find a list of the classes that I TA'd for, along with their descriptions. I was there for two semesters, in the AY 2024-25.  
 
-Physical Chemistry
+SP2271: Introduction to the Scientific Literature
 -
-Duration: Semester 2 in Year 4. 
+When: Semester 2
 
-Physical Chemistry (YSC3262) was an advanced undergraduate course taken by mainly physical sciences students with a focus in Chemistry. Although I hadn't personally taken the course myself, most of the concepts taught in it was based on the principles of Quantum Mechanics. I helped answer questions mostly about the mathematics of Quantum Mechanics. 
 
-Introduction to Black Holes
+
+SP2273: Working on interdisciplinary science, pythonically
 -
-Duration: Semester 1 in Year 4. 
-
-Introduction to Black Holes (YSC1219) was an introductory science course aimed at all students, without a strong mathematical pre-requisite. Students could use this course to satisfy their science requirement for the common curriculum. Whilst not a pre-requisite, mathematical interpretation and some coding ability was essential to do the Labs, which were regular assignments that simulated mini research tasks, littered throughout the semester. Students approached me for help with their interpretation.   
+When: Semester 1 and Semester 2 
 
 
-Quantitative Reasoning
+
+
+SP3176: The Universe 
 -
-Duration: Semester 1 in Year 2, 3 and Semester 2 in Year 4. 
+When: Semester 1
 
-Quantitative reasoning (YCC1122) was a common curriculum course taken by all newly matriculated students in the first semester. The two most important things students learned in this course was how to use the R programming language to do exploratory data analysis and how to do basic statistics and interpret hypotheses in a quantitative manner. The course title and module code changed in my final year (as the school transitioned to NUS College), but the overarching learning goals in the module were similar.
 
-Scientific Inquiry 2
+
+PC3232: Nuclear and Particle Physics 
 -
-Duration: Semester 1 in Year 2 and 3. 
+When: Semester 1
 
-Scientific Inquiry 2 (YCC2137) was a common curriculum course taken by all matriculated students in the first semester of the second year. There was a significant coding and hypothesis formulation component, which was my primary responsibility in helping students. 
