@@ -15,10 +15,10 @@ I graduated from Yale-NUS College (RIP) in 2023 with a major in the Physical Sci
 
 ### Line ratios in the extended outer filament of Centaurus A
 ##### Supervised by: Steven Tingay, ICRAR Curtin 
-##### Deliverables: Publication (submitted to PASA)
+##### Deliverables: Publication (working on resubmission after reject from PASA)
 ###### Summary:
 
-<p>Centaurus A, one of the brightest radio sources in the sky and a nearby galaxy, has extended jetted structure on the order of tens of kiloparsecs northward from its galactic nucleus. Our collaborator, Rolf Olsen, used his self-constructed telescope to acquire spectacular optical images. We flux calibrated his images and used it to study line enrichment in the most extended structures of the outermost optical features. This region is interesting, and possibly a great target for follow-up IFU spectroscopy, due to the proximate and spatially anti-coincident X-ray and radio emission. The paper has been submitted to PASA and we are waiting for the first round of reviews. </p>
+<p>Centaurus A, one of the brightest radio sources in the sky and a nearby galaxy, has extended jetted structure on the order of tens of kiloparsecs northward from its galactic nucleus. Our collaborator, Rolf Olsen, used his self-constructed telescope to acquire spectacular optical images. We flux calibrated his images and used it to study line enrichment in the most extended structures of the outermost optical features. This region is interesting, and possibly a great target for follow-up IFU spectroscopy, due to the proximate and spatially anti-coincident X-ray and radio emission. </p>
 
 <figure><img src="images/CenA_website.png">
 <center><figcaption>A colour composite of the Red, Green and Blue data used in this project. </figcaption> </center>
@@ -43,13 +43,24 @@ The epoch of z ~ 2 is called cosmic noon, which coincides with the highest obser
 ##### Supervised by: Nick Seymour, ICRAR Curtin
 ##### Deliverables: Proposals to ATCA (PI; Observation scheduled in December 2026), LBA (Co-I; not scheduled yet but placement in the 2nd quartile), *JWST* (Co-I; just submitted)
 
-High redshift radio galaxies 
+High redshift radio galaxies are some of the most luminous sources of radio emission in the sky. In this project, we are specifically looking for IR faint radio galaxies with z > 4-5. We want to leverage the new *Euclid* telescope to find the faintest IR candidates hitherto seen. As part of this project, I helped find high z radio galaxy candidates (generally ~100 mJy or brighter at ~200MHz) in the southern hemisphere, by using the ASKAP surveys like RACS and EMU. I then tried to find counterparts in the publicly available *Euclid* datasets. One of the southerly publicly released fields also has overlap with the VLASS survey. In addition, Dr. Seymour had some previous ATCA high-resolution images for some sources. All in all, I helped sift through all of this radio and optical/IR data to come up with sources, and help refine the source selection criteria. 
+
+<figure><img src="images/Euclid_Example.png">
+<center><figcaption>A YJH <i>Euclid</i> band composite of one of the galaxies, with existing VLASS data overlaid as contours. Note the plausible identification of the source with the radio emission.</figcaption></center>
+ </figure>
+
 
  
 
 #### LEAPS 2021 Project: Cooking with the stars
 ##### Supervised by: Niels Ligterink (Universität Bern), Aida Ahmadi (Leiden University) 
 ##### Deliverables: Publication (Ligterink et al. 2022, ACS Earth and Space Chemistry), LEAPS presentation
+
+With the advent of the Atacama Large Mili/submilimetre Array (ALMA), studying the rotational spectra of protostellar sources at high spectral and spatial resolution has become possible. In this project for the Leiden/ESA Program for Summer Students (in 2021), I did a chemical inventory of the protostellar source Serpens SMM1-b. I fit the high-resolution ALMA spectra of the source using CASSIS to identify the various chemical species therein. I then imaged outflows in the source using the brightest lines. Using some of these tools, I helped contribute to a followup paper on Serpens SMM1-a, describing nitrogen containing compounds found therein. 
+
+<figure><img src="images/Coverpic_LEAPS.png">
+<center><figcaption>An image of the Serpens SMM1 system in the specific emission line of C3H2.</figcaption></center>
+ </figure>
 
 
 

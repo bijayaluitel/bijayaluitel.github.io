@@ -19,8 +19,8 @@ Work experience
 After College
 -------
 * Research Assistant, ICRAR Curtin, Curtin Singapore, May 2025 to October 2026 
-	* Associated with my project on line excitation diagnostics in Centaurus A.
-	* Duties included: Manuscript preparation as well as conference and workshop visits, preparation of proposals for competitive telescopes such as ALMA (successful), VLA and the *HST*. 
+	* Associated with my project on line excitation diagnostics in Centaurus A and Euclid candidate galaxies.
+	* Duties included: Paper preparation, market research and liasing with stakeholders in Singapore, public facing talks and projects, working with the galaxy evolution group to  preparation of proposals for competitive telescopes such as ATCA, LBA, *JWST*.  
 	* Reporting Person: Dr. Steven Tingay
 
 
@@ -50,12 +50,14 @@ During College
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Astronomical Research
+	* Radio Interferometry (VLA and ALMA)
+	* Optical photometry (HST, VLT-MUSE, SDSS, Spitzer, CTIO)
+	* CASA
+	* Python
+	* Shell 
+* Project Management
+* Public Speaking 
 
 Publications
 ======
@@ -75,6 +77,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Member of the Nepal Astronomical Society, which hosts astronomy enrichment programs in Nepal. I volunteer my time to help teach gifted upper secondary school and high school students as part of the astronomy olympiads. This is usually on an adhoc basis, ramping up when preparations for the international competitions, like the International Olympiad on Astronomy and Astrophysics (IOAA) are about to take place. 
