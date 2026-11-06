@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Bijaya Luitel, originally from Bhakapur, Nepal. When I was in high school, I was Nepal's first honoree at the International Olympiad in Astronomy and Astrophysics (IOAA) in 2016 and 2017, receiving Honorable Mentions (HM) both times. 
 
-I graduated from Yale-NUS College (RIP; context <a href = "https://yaledailynews.com/articles/yale-nus-announces-closure-by-2025-new-college-takes-its-place">here</a>) in 2023 with a major in the Physical Sciences.  I'm broadly interested in using the tools of observational astronomy to study star formation at both local (intragalactic/nearby universe) as well as global (extragalactic/across different redshifts) scales. I'm currently looking for graduate opportunities. 
+I graduated from Yale-NUS College (RIP; context <a target="_blank" rel="noopener noreferrer" href= "https://yaledailynews.com/articles/yale-nus-announces-closure-by-2025-new-college-takes-its-place">here</a>) in 2023 with a major in the Physical Sciences.  I'm broadly interested in using the tools of observational astronomy to study star formation at both local (intragalactic/nearby universe) as well as global (extragalactic/across different redshifts) scales. I'm currently looking for graduate opportunities. 
 
 ## Highlighted Projects
 
