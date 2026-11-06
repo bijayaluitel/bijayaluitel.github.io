@@ -45,7 +45,7 @@ The epoch of z ~ 2 is called cosmic noon, which coincides with the highest obser
 
 High redshift radio galaxies are some of the most luminous sources of radio emission in the sky. In this project, we are specifically looking for IR faint radio galaxies with z > 4-5. We want to leverage the new *Euclid* telescope to find the faintest IR candidates hitherto seen. As part of this project, I helped find high z radio galaxy candidates (generally ~100 mJy or brighter at ~200MHz) in the southern hemisphere, by using the ASKAP surveys like RACS and EMU. I then tried to find counterparts in the publicly available *Euclid* datasets. One of the southerly publicly released fields also has overlap with the VLASS survey. In addition, Dr. Seymour had some previous ATCA high-resolution images for some sources. All in all, I helped sift through all of this radio and optical/IR data to come up with sources, and help refine the source selection criteria. 
 
-<figure><img src="images/Euclid_Example.png">
+<figure><img src="images/Euclid_example.png">
 <center><figcaption>A YJH <i>Euclid</i> band composite of one of the galaxies, with existing VLASS data overlaid as contours. Note the plausible identification of the source with the radio emission.</figcaption></center>
  </figure>
 
