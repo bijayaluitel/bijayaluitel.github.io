@@ -15,7 +15,7 @@ I graduated from Yale-NUS College (RIP) in 2023 with a major in the Physical Sci
 
 ### Line ratios in the extended outer filament of Centaurus A
 ##### Supervised by: Steven Tingay, ICRAR Curtin 
-##### Deliverables: Publication (working on resubmission after reject from PASA)
+##### Deliverables: Publication (in prep)
 ###### Summary:
 
 <p>Centaurus A, one of the brightest radio sources in the sky and a nearby galaxy, has extended jetted structure on the order of tens of kiloparsecs northward from its galactic nucleus. Our collaborator, Rolf Olsen, used his self-constructed telescope to acquire spectacular optical images. We flux calibrated his images and used it to study line enrichment in the most extended structures of the outermost optical features. This region is interesting, and possibly a great target for follow-up IFU spectroscopy, due to the proximate and spatially anti-coincident X-ray and radio emission. </p>
