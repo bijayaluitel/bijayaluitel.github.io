@@ -8,7 +8,7 @@ date: 2023-1-1
 location: "Singapore, Singapore"
 ---
 
-You'll find a brief synopsis of my peer tutoring experiences when I was an undergraduate. At Yale-NUS College, peer tutoring was the term to refer to outside classroom one-to-one or one-to-many instruction tutoring where the tutor is hired on the recommendation of the faculty member teaching a particular course. This was a part time position during the semester alongside my regular classes. Students could send me an email to book time with me; depending on the course workload/difficulty, my tutoring commitment for each module would vary between 10 - 15 hours per course per semester. Unlike TA arrangements in a lot of universities, I would **not be involved in grading work**. 
+You'll find a brief synopsis of my peer tutoring experiences when I was an undergraduate. At Yale-NUS College, peer tutoring was the term to refer to outside classroom one-to-one or one-to-many instruction tutoring where the tutor is hired on the recommendation of the faculty member teaching a particular course. This was a part time position during the semester alongside my regular classes. Students could send me an email to book time with me; depending on the course workload/difficulty, my tutoring commitment for each module would vary between 10 - 15 hours per course per semester. Unlike TA arrangements in a lot of universities, I didn't grade student work. 
 
 Physical Chemistry
 -

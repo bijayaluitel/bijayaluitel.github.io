@@ -7,6 +7,6 @@ excerpt:
 date: 2026-10-20
 venue: TBD
 paperurl: '/publications/thesis_paper_file.pdf'
-citation: TBD
+citation: B. Luitel, C. Sharon, et al. (in prep)
 ---
 This is my BSc thesis paper that is in preparation. You can view a copy of the manuscript PDF by clicking on the download link below.
